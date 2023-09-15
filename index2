@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 2 - Internet Explorer Exploded = Semantic Sentiments and Aspirations (In Class Assignment)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Foldit:wght@100;400;600&family=Notable&family=Noto+Sans+Linear+B&display=swap');
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
+    </header>
+    <main>
+        <div class="row">
+            <h1>
+                How will I be like in the future metaverse?
+            </h1>
+            <img src="assets/images/blur.png" alt="blur of pink ellipse" min-width="600px">
+        </div>
+        <div class="row2">
+            <h2>
+                What is <em>metaverse</em>?
+            </h2>
+            <br>
+            <p>
+                As Mamoru Hosoda answered in the interview of his film <strong><em>Belle</em></strong> :
+            </p>
+            <br>
+            <br>
+            <p>
+                <em>
+                "The Internet is in many ways a new globalized world, and I think it represents what a globalized world looks like, where language and boundaries don't play so much of a role anymore, and the metaverse is meant to really capture that sensibility.
+                </em>
+            </p>
+            <p>
+                <em>
+                So I'm convinced that we need some entity or space or reality that transcends the needs of the company, and that could be the metaverse."
+                </em>
+            </p>
+
+            <h3>
+                What is <em>metaverse</em> to me?
+            </h3>
+            <br>
+            <h4>
+                The metaverse is a way of being in the future. It will eventually become reality in a virtual form.
+            </h4>
+            <br>
+        </div>
+        <div class="row2">
+            <h2>
+                How will My life be like in the future metaverse?
+            </h2>
+            <br>
+            <h3>What would I do in the meta-universe? What's my life like?</h3>
+        </div>
+        <div class="row2">
+           
+        </div>
+        <div class="row">
+            <br>
+            <img src="assets/images/2.png" alt="boxes" width="600px">
+            <br>
+            <h4>
+                <a href="https://www.themetaversejobs.com">Current Jobs related to Metaverse</a>
+            </h4>
+        </div>
+
+        <div class="row3">
+            <ul>
+                <li>
+                    Virtual entrepreneurs: Create virtual enterprises in the meta-universe, run digital enterprises, and provide various virtual products and services.
+                </li>
+                <li>
+                    Social influencers: Build a personal brand, interact with others, and share your life and experiences.
+                </li>
+                <li>
+                    Creator or artist: produces digital art, virtual reality experiences, music, or designs for virtual worlds.
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Social influencers: Build a personal brand, interact with others, and share your life and experiences.
+                </li>
+                <li>
+                    Gamers: Participate in all types of virtual games, competitions, and recreational activities.
+                </li>
+                <li>
+                    Educator: Provides educational services in the meta-universe, providing students with a virtual learning experience.
+                </li>
+            </ul>
+        </div>
+        <img src="assets/images/futurecoming.png"
+            alt="Future is coming" href="index2">
+    </main>
+    <footer>
+        <br>
+        Template for of Web-Based Multimedia Communications <strong>Semantic Sentiments and Aspirations</strong> Fall 2023
+        in-class assignment
+        <br>
+        <br>
+    </footer>
+</body>
+
+</html>

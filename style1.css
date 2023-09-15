@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(circle, #ffffff, #7a9cec);
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+.center-text {
+    color: white; 
+    font-size: 24px; 
+}
+
+h1 {
+    font-family: 'Bradley Hand', sans-serif;
+    font-weight: initial;
+    font-size: 3.2rem;
+    line-height: 4rem;
+
+}
+
+.gradient-text {
+    background-image: linear-gradient(to bottom,#314165,#7a9cec,#7a9cec, #ffffff, #ffffff,#ffffff); /* 创建水平渐变 */
+    -webkit-background-clip: text; 
+    background-clip: text; 
+    color: transparent; 
+}
+
+a {
+    text-decoration: none; 
+    color: inherit; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+a:visited {
+    color: inherit; 
+}

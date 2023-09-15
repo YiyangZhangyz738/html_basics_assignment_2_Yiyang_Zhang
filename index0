@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 2 - Internet Explorer Exploded = Semantic Sentiments and Aspirations (In Class Assignment)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Foldit:wght@100;400;600&family=Notable&family=Noto+Sans+Linear+B&display=swap');
+    </style>
+    <link rel="stylesheet" href="style0.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="center-text">
+            <h1><a href="index1" class="gradient-text">Click to explore</a></h1>
+        </div>
+    </div>
+</body>
+
+</html>
